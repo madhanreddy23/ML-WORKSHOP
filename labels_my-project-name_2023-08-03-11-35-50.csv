@@ -1,0 +1,6 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+elephant,20,26,406,270,animals.jpg,1600,900
+tiger,1196,153,387,176,animals.jpg,1600,900
+crocodile,960,14,613,133,animals.jpg,1600,900
+zirafee,8,313,342,561,animals.jpg,1600,900
+monkey,1274,598,326,270,animals.jpg,1600,900
